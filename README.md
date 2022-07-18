@@ -1,8 +1,8 @@
 # ws-mobile-kotlin
-##Problem Statement
+## Problem Statement
 Implement a log() function to POST geolocation information to a designated server and package it as a robust SDK for import and use.
 
-##EQ Works problem solution
+## EQ Works problem solution
 I have provided the solution as per the specification in this Github reposatory and also added GUI just for visual purpose but the code is written by considering
 the generalized approach which can be imported as per use.
 - Used Volley library for making POST request 
